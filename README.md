@@ -16,35 +16,35 @@ Objetivo Especifico
 
 2. MARCO TEORICO 
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa1.png
+![image](https://user-images.githubusercontent.com/105255508/168805615-b7fa3543-6946-454d-925a-e1982a84d90b.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa2.png
+![image](https://user-images.githubusercontent.com/105255508/168805636-e3dc3cf1-c385-4cfd-bfed-f679c4baf35f.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa3.png
+![image](https://user-images.githubusercontent.com/105255508/168805737-f1451936-50ac-4d5b-a6b6-fd6ed91aa47f.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/Mapa4.png
+![image](https://user-images.githubusercontent.com/105255508/168805758-a14b1494-4710-4d7b-880e-03ba69cb8ba7.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/Mapa%205.png
+![image](https://user-images.githubusercontent.com/105255508/168805804-2b2a24e9-4890-4c30-bf41-db3ff79a60f5.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/Mapa%206.png
+![image](https://user-images.githubusercontent.com/105255508/168805832-93855739-4265-4e7b-a8f1-06348896624a.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa%207.png
+![image](https://user-images.githubusercontent.com/105255508/168805866-0689d216-7f33-4ef5-88b4-6f0d280dc9b7.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa%208.png
+![image](https://user-images.githubusercontent.com/105255508/168805886-9049c77f-1bd9-49e8-957a-020c5295757f.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa%209.png
+![image](https://user-images.githubusercontent.com/105255508/168805903-a385f290-f5d7-4d58-ac86-84fb426623c9.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa%2010.png
+![image](https://user-images.githubusercontent.com/105255508/168805926-63156792-1c27-44e6-9bed-b9bbb550e849.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa%2011.png
+![image](https://user-images.githubusercontent.com/105255508/168805949-10f15888-abfa-47de-b56c-0a58d273950b.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa%2012.png
+![image](https://user-images.githubusercontent.com/105255508/168805970-db3ff804-96fc-49eb-8a9f-cbaf8f53a8da.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa%2013.png
+![image](https://user-images.githubusercontent.com/105255508/168805992-0e6212c8-2b60-4b1d-80ed-60fba278860a.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa%2014.png
+![image](https://user-images.githubusercontent.com/105255508/168806011-71d79062-e116-4e3a-83e9-b2e1743faf6b.png)
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/mapa15.png
+![image](https://user-images.githubusercontent.com/105255508/168806028-b7f7ea1b-1c96-43d6-9b8a-496914f1302e.png)
 
 3. EXPLICACION Y RESOLUCION DE EJERICIOS O PROBLEMAS 
 
@@ -366,7 +366,7 @@ Sección 2-5
 
 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/28.png
+![image](https://user-images.githubusercontent.com/105255508/168806118-85d71959-5ff4-42f5-ba28-7ee425443ae7.png)
 
 Resolucion 
 
@@ -388,11 +388,11 @@ Tolerancia= ±1%
 
 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva
 
- https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/32.png
+ ![image](https://user-images.githubusercontent.com/105255508/168806168-1c54ab37-d702-43fa-9d79-246386fe211e.png)
  
 Resolucion 
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/32%20a.png
+![image](https://user-images.githubusercontent.com/105255508/168806201-2e58eb93-025a-408d-8754-5402ffdae9b1.png)
   
 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
@@ -404,7 +404,7 @@ R= Hay corrientes a través del resistor R5
  
 38. Explique cómo mediría la resistencia de R2 en la figura 2-72
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/38.png
+![image](https://user-images.githubusercontent.com/105255508/168806272-99350844-bae7-4200-9709-44f87258d0da.png)
 
 Resolucion
 
@@ -412,23 +412,23 @@ Se debería conectar el multímetro en la posición de la corriente directa, col
  
 40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/40.png
+![image](https://user-images.githubusercontent.com/105255508/168806307-8fd64c19-d85a-4333-8346-6bbe2883062c.png)
 
 Resolucion
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/40%20a.png
+![image](https://user-images.githubusercontent.com/105255508/168806337-91d1bd8d-2f31-42a0-b2e8-23d61c8696a8.png)
   
 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/42.png
+![image](https://user-images.githubusercontent.com/105255508/168806362-811863c8-5078-4705-9f8e-f2b0b8dc1fd8.png)
 
 Resolucion
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/42%20a.png
+![image](https://user-images.githubusercontent.com/105255508/168806394-bd794be9-3e5a-48d3-bb09-1e1220b2bda3.png)
 
 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
-https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/44.png
+![image](https://user-images.githubusercontent.com/105255508/168806443-b1924be4-93bb-41d5-ba50-2b94c2a3f90c.png)
 
 Resolucion 
 
