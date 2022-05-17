@@ -364,9 +364,13 @@ Resolucion
 
 Sección 2-5
 
-28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000  , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
+https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/28.png
 
+Resolucion 
+
+La resistencia entre cada terminar es de 500Ω
  
 R= La resistencia que tiene cada terminal es de 500Ω
 
@@ -384,14 +388,15 @@ Tolerancia= ±1%
 
 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva
 
- 
+ https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/32.png
  
 Resolucion 
 
+https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/32%20a.png
   
 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
-
+https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/34.png
  
 R= Hay corrientes a través del resistor R5
 
@@ -399,27 +404,43 @@ R= Hay corrientes a través del resistor R5
  
 38. Explique cómo mediría la resistencia de R2 en la figura 2-72
 
+https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/38.png
 
+Resolucion
+
+Se debería conectar el multímetro en la posición de la corriente directa, colocando las puntas del multímetro, en donde la punta positiva iría en la parte superior de R2, y la parte negativa ira en la parte inferior de R2
  
-R= se debería conectar el multímetro en la posición de la corriente directa, colocando las puntas del multímetro, en donde la punta positiva iría en la parte superior de R2, y la parte negativa ira en la parte inferior de R2
-
 40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
 
-  
+https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/40.png
+
+Resolucion
+
+https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/40%20a.png
   
 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
 
+https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/42.png
+
+Resolucion
+
+https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/42%20a.png
+
 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
+https://github.com/BryanAlmachi/Tareas_Circuitos/blob/main/44.png
 
+Resolucion 
+
+Esta midiendo 100 Ohms
 
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
-
+Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 4. VIDEO
 
-
+https://youtu.be/Z1YkLaEFvhI
 
 5. CONCLUSIONES 
 
@@ -441,7 +462,7 @@ R= se debería conectar el multímetro en la posición de la corriente directa, 
 
 6. BIBLIOGRAFIA
 
-
+Floyd TL. Principios de Circuitos Eléctricos. Octava Edición. Published online 2007:1-968. Accessed May 16, 2022. www.pearsoneducacion.net/floyd
 
 
 
