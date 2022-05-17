@@ -371,8 +371,6 @@ Sección 2-5
 Resolucion 
 
 La resistencia entre cada terminar es de 500Ω
- 
-R= La resistencia que tiene cada terminal es de 500Ω
 
 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
 
