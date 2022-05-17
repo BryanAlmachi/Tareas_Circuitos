@@ -1,4 +1,4 @@
-# InformTarea1
+# InformeTarea1
 
 1. OBJETIVOS
 
